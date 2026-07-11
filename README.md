@@ -1,4 +1,4 @@
-**Real-Time Face Recognition (OpenCV + LBPH)
+**Real-Time Face Recognition(OpenCV + LBPH)
 
 A real-time face recognition system using OpenCV's Haar Cascade classifiers 
 for face and eye detection, combined with the LBPH (Local Binary Patterns 
